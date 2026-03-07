@@ -1,0 +1,2 @@
+cd "C:\Users\lenovo\Desktop\cogniguard-WITH-AI\frontend"
+npm run dev
